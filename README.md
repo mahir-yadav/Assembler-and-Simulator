@@ -1,5 +1,5 @@
-# CO-PROJECT-2022
-CO PROJECT 2022
+# Assembler and Simulator
+Assembler and Simulator
 
 Refer to COPROJECT2022.pdf for ISA
 
